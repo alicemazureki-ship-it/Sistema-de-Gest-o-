@@ -1,6 +1,6 @@
 # Sistema de Gestão 
 
-# O projeto segue arquitetura semelhante ao padrão MVC 
+## O projeto segue arquitetura semelhante ao padrão MVC 
 
 # Estrutura do Projeto 
 ```
